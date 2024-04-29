@@ -1,3 +1,7 @@
 transformers
 pillow
 torch
+google-generativeai
+python-dotenv
+langchain
+langchain_google_genai
